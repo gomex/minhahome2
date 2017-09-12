@@ -1,6 +1,6 @@
 ## Basic Configuration
 
-baseurl = "http://localhost/" 
+baseurl = "https://gomex.github.io/minhahome2" 
 builddrafts = false
 canonifyurls = false
 languageCode = "en-US"
