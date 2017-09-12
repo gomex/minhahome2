@@ -1,6 +1,6 @@
 ## Basic Configuration
 
-baseurl = "https://shenoybr.github.io/hugo-goa-demo/" 
+baseurl = "http://localhost/" 
 builddrafts = false
 canonifyurls = false
 languageCode = "en-US"
