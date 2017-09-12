@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Erlich Bachman</title>
+    <link>https://gomex.github.io/minhahome2/categories/</link>
+    <description>Recent content in Categories on Erlich Bachman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 02 Oct 2016 22:55:05 -0400</lastBuildDate>
+    
+	<atom:link href="https://gomex.github.io/minhahome2/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>https://gomex.github.io/minhahome2/categories/about/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      
+      <guid>https://gomex.github.io/minhahome2/categories/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ad</title>
+      <link>https://gomex.github.io/minhahome2/categories/ad/</link>
+      <pubDate>Sun, 02 Oct 2016 15:59:13 -0400</pubDate>
+      
+      <guid>https://gomex.github.io/minhahome2/categories/ad/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Articles</title>
+      <link>https://gomex.github.io/minhahome2/categories/articles/</link>
+      <pubDate>Sun, 02 Oct 2016 22:55:05 -0400</pubDate>
+      
+      <guid>https://gomex.github.io/minhahome2/categories/articles/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Propaganda</title>
+      <link>https://gomex.github.io/minhahome2/categories/propaganda/</link>
+      <pubDate>Mon, 03 Oct 2016 16:59:13 -0400</pubDate>
+      
+      <guid>https://gomex.github.io/minhahome2/categories/propaganda/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
